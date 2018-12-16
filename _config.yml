@@ -4,8 +4,8 @@
 baseurl:
 url: https://lizhiduo.github.io
 date_format: "ordinal"
-title: lizhiduo blog 
-subtitle: ""
+title: lizhiduo
+subtitle: "Enjoy Life"
 description: "李志铎的个人博客"
 keywords: lizhiduo, zero
 timezone: Asia/Shanghai
@@ -16,7 +16,7 @@ side_bar_repo_limit: 5
 #      Author      #
 # ---------------- #
 author: ZhiDuo Li
-organization: 
+organization: hikvision
 organization_url: 
 github_username: lizhiduo
 location: Hangzhou, China
@@ -28,11 +28,11 @@ email: lizhiduo@aliyun.com
 navs:
   -
     href: /
-    label: 首页
+    label: home
 
   -
     href: /categories/
-    label: 分类
+    label: categories
 
 #   -
 #     href: /archives/
@@ -40,15 +40,15 @@ navs:
 
   -
     href: /wiki/
-    label: 维基
+    label: wiki
 
   -
     href: /links/
-    label: 链接
+    label: links
 
   -
     href: /about/
-    label: 关于
+    label: about
 
 # ---------------- #
 #       RSS        #
@@ -102,10 +102,10 @@ gitment:
         client_secret:
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: 
-    repo: 
-    clientID:
-    clientSecret:
+    owner: lizhiduo
+    repo: blog-comments 
+    clientID: 82a8fc06c7614ef3d655
+    clientSecret: 9819147167e06a2e684535c7cb636ed7da744b7e
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
