@@ -49,4 +49,4 @@ Fork本项目后，还需要做一些修改才能让你的页面**正确**跑起
 1. gitalk创建和使用可以参考[gitalk使用](https://www.jianshu.com/p/78c64d07124d)。
 2. 在本地预览博客效果可以参考[Setting up your Pages site locally with Jekyll][1]。
 
-[2]: https://help.github.com/articles/setting-up-your-pages-site-locally-with-jekyll/
+[1]: https://help.github.com/articles/setting-up-your-pages-site-locally-with-jekyll/
