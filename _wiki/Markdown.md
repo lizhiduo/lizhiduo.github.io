@@ -1,4 +1,3 @@
-```
 ---
 layout: wiki
 title: Markdown
@@ -6,7 +5,7 @@ categories: Markdown
 description: Markdown 常用语法示例
 keywords: Markdown
 ---
-```
+
 
 外部参考： [MD简明教程](https://ouweiya.gitbooks.io/markdown/index.html)
 
