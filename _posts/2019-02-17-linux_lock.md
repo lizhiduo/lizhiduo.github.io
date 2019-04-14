@@ -6,7 +6,12 @@ description: Linux 内核锁
 keywords: linux, kernel
 ---
 
+本文主要讨论内核中一些常用的锁机制，以及使用注意事项。
+
+
+
 ## 主要内容
+
 >* 原子性
 >* RMW
 >* atomic
